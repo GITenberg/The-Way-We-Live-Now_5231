@@ -1,0 +1,41 @@
+_repo: The-Way-We-Live-Now_5231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Way We Live Now is a satirical novel by Anthony Trollope, published\
+  \ in London in 1875 after first appearing in serialised form. It is one of the last\
+  \ significant Victorian novels to have been published in monthly parts.\nComprising\
+  \ 100 chapters, The Way We Live Now was Trollope's longest novel, and is particularly\
+  \ rich in sub-plot. It was inspired by the financial scandals of the early 1870s;\
+  \ Trollope had just returned to England from abroad, and was appalled by the greed\
+  \ and dishonesty those scandals exposed. This novel was his rebuke. It dramatises\
+  \ how that greed and dishonesty pervaded the commercial, political, moral, and intellectual\
+  \ life of that era.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5231'
+  wikidata: Q7773866
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Commercial crimes -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: The Way We Live Now
+url: http://www.gutenberg.org/ebooks/5231
+wikipedia:
+- https://fr.wikipedia.org/wiki/Quelle_%C3%A9poque_!
+- https://en.wikipedia.org/wiki/The_Way_We_Live_Now
